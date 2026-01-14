@@ -116,6 +116,8 @@
   --color-toast-bg-warning: #fffcf5ee;
   --color-toast-bg-info: #f8f8ffee;
   --color-toast-bg-success: #f5fcfaee;
+  --font-sans: var(--font-epilogue);
+  --font-mono: var(--font-hanken-grotesk);
 }
 
 :root {
